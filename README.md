@@ -39,7 +39,7 @@ The model uses only a relatively small subset of the 128 concepts. 104 concepts 
 ## Effect of ablating the concept most associated with Q1
 
 
-![Dense Hyper results table](images/hyper_pcd_diagnostics.png)
+![Dense Hyper results table](images/effect_of_ablating.png)
 
 - The quality drops slightly
 - This means the hint-related information is partially localized in that concept, but  is not stored only there; the representation is distributed.
